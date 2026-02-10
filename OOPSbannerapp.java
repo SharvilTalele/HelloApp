@@ -1,6 +1,14 @@
 public class OOPSbannerapp{
 	public static void main(){
-		System.out.println("OOPS");
+		System.out.println("   ***   " + "   ***   " + " ******  " + "   ****  ");
+		System.out.println(" **   ** " + " **   ** " + " **    * " + "  *      ");
+		System.out.println("*       *" + "*       *" + " **    * " + "  *      ");
+		System.out.println("*       *" + "*       *" + " **   ** " + "   ***   ");
+		System.out.println("*       *" + "*       *" + " *****   " + "      *  ");
+		System.out.println("*       *" + "*       *" + " **      " + "      *  ");
+		System.out.println(" **   ** " + " **   ** " + " **      " + "      *  ");
+		System.out.println("   ***   " + "   ***   " + " **      " + "   ***   ");
+		
 	}
 		
 }
